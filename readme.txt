@@ -3,7 +3,7 @@ Contributors: sushkov
 Tags: tcpdf library pdf
 Requires at least: WordPress 1.0
 Tested up to: WordPress 3.4.2
-Stable tag: 0.1
+Stable tag: trunk
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=stas@net.utcluj.ro
 
 Pluginified TCPDF library to be used as a dependency.
